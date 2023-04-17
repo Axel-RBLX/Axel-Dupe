@@ -1,2 +1,2 @@
-AXEL SCRIPTS -- discord : https://discord.gg/hvDYYjWJ3w
+AXEL SCRIPTS -- discord : https://discord.gg/GM546yBzXd
 
